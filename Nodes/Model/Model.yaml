@@ -1,2 +1,7 @@
 Name: Model
 Type: FolderType
+Children:
+- Name: GitTest
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
