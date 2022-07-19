@@ -11,6 +11,7 @@ using FTOptix.Store;
 using FTOptix.Core;
 using FTOptix.CoreBase;
 using FTOptix.NetLogic;
+using FTOptix.Alarm;
 #endregion
 
 public class RuntimeNetLogic1 : BaseNetLogic
