@@ -28,5 +28,13 @@ Project:
    Uri: 'urn:FTOptix:Retentivity'
    Module: FTOptix.Retentivity
    Version: 3.0
+  8:
+   Uri: 'urn:FTOptix:Store'
+   Module: FTOptix.Store
+   Version: 2.1
+  9:
+   Uri: 'urn:FTOptix:SQLiteStore'
+   Module: FTOptix.SQLiteStore
+   Version: 2.1
  Nodes:
  - File: Nodes/GOTC.yaml
