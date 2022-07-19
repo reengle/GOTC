@@ -80,5 +80,13 @@ Project:
    Uri: 'urn:FTOptix:Alarm:Net'
    Module: FTOptix.Alarm.Net
    Version: 3.1
+  21:
+   Uri: 'urn:FTOptix:OPCUAClient'
+   Module: FTOptix.OPCUAClient
+   Version: 7.1
+  22:
+   Uri: 'urn:FTOptix:OPCUAClient:Net'
+   Module: FTOptix.OPCUAClient.Net
+   Version: 6.1
  Nodes:
  - File: Nodes/GOTC.yaml

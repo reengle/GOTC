@@ -12,6 +12,7 @@ using FTOptix.Core;
 using FTOptix.CoreBase;
 using FTOptix.NetLogic;
 using FTOptix.Alarm;
+using FTOptix.OPCUAClient;
 #endregion
 
 public class RuntimeNetLogic1 : BaseNetLogic
