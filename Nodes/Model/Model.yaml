@@ -9,3 +9,7 @@ Children:
   Type: BaseDataVariableType
   DataType: Int32
   Value: 0
+- Name: "Rich's variable!"
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
