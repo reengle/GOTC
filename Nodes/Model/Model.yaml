@@ -12,4 +12,4 @@ Children:
 - Name: "Rich's variable!"
   Type: BaseDataVariableType
   DataType: Int32
-  Value: 0
+  Value: 13
