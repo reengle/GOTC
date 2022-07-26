@@ -15,7 +15,7 @@ Project:
   3:
    Uri: 'urn:FTOptix:UI'
    Module: FTOptix.UI
-   Version: 45.1
+   Version: 46.0
   4:
    Uri: 'urn:FTOptix:HMIProject'
    Module: FTOptix.HMIProject
@@ -23,7 +23,7 @@ Project:
   5:
    Uri: 'urn:FTOptix:NativeUI'
    Module: FTOptix.NativeUI
-   Version: 27.1
+   Version: 28.0
   6:
    Uri: 'urn:FTOptix:Retentivity'
    Module: FTOptix.Retentivity
@@ -47,7 +47,7 @@ Project:
   12:
    Uri: 'urn:FTOptix:UI:Net'
    Module: FTOptix.UI.Net
-   Version: 33.1
+   Version: 34.0
   13:
    Uri: 'urn:FTOptix:HMIProject:Net'
    Module: FTOptix.HMIProject.Net
